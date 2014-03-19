@@ -1,11 +1,8 @@
 package com.ajaso.mygasfeed.api.response;
 
-import com.ajaso.android.request.BasicResult;
-import com.ajaso.android.request.Result;
+import com.ajaso.android.foreman.Result;
 import com.ajaso.mygasfeed.api.model.Status;
 import com.google.gson.Gson;
-
-import java.util.List;
 
 /**
  * Author: Adam J Jaso Jr
