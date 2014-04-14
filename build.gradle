@@ -17,5 +17,5 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 
     compile project(':foreman')
-    compile project(':android-http')
+    compile project(':foreman-api')
 }
